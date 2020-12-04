@@ -1,6 +1,6 @@
 # Vivienda de interés social en Bogotá 
 
-![imagen.png](attachment:imagen.png)
+![imagen.png](/Desktop/1.png)
 
 
 Una de las principales estrategias que el ministerio de vivienda ha implementado para atacar el déficit inmobiliario ha sido la construcción y financiación de Viviendas de Interés Social (VIS).La ley define la vivienda de interés social como aquella que es habitable, cumple con estándares de calidad,tiene un valor máximo que no pasa de los 135 SMLM y pertenece al estrato 2 o 3. 
